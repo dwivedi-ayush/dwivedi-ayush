@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**dwivedi-ayush/dwivedi-ayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ayush Dwivedi, a CS Student. I'm passionate about computers and stuff, and I'm always looking to learn more.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm currently learning
+
+
+
+## 📫 How to reach me
+
+
+
+## 💬 Ask me about
+
+
+
+## 📈 GitHub Stats
+
+<!-- git hub stats tool -->
+
+## 🐦 Latest Tweet
+
+<!-- [insert your latest tweet using Twitter Feed tool] -->
+
+## 📝 Latest Blog Posts
+
+<!-- [insert your latest blog posts using Blog Post Feed tool] -->
+
